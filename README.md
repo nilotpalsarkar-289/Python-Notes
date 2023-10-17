@@ -1,4 +1,4 @@
 ## Introduction
-This repository contains all the programs of python programming for the course "PW-Skills" Data Science Masters 2.0.
+This repository acts as a course which contains the programs and concepts of python programming from the very basic to the advanced level.
 <br>
 Author - Nilotpal Sarkar (IIIT Kalyani)
